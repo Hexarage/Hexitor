@@ -8,8 +8,6 @@ int CALLBACK WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLi
 
 		start loop
 			handle input
-				TODO: decide if this will be windows only or cross platform, doing input cross platform is a pain
-
 			handle frame
 				have some sort of delta time (mark, peek, etc)
 
